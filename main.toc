@@ -9,11 +9,11 @@
 \selectlanguage *[]{english}
 \selectlanguage *[]{french}
 \selectlanguage *[]{english}
-\contentsline {chapter}{Contents}{IV}{chapter*.9}%
-\contentsline {chapter}{List of Figures}{VI}{chapter*.10}%
-\contentsline {chapter}{List of Tables}{VII}{chapter*.11}%
-\contentsline {chapter}{\textenglish {Glossary}}{VIII}{section*.12}%
-\contentsline {chapter}{\textenglish {Acronyms}}{IX}{section*.14}%
+\contentsline {chapter}{Contents}{III}{chapter*.9}%
+\contentsline {chapter}{List of Figures}{V}{chapter*.10}%
+\contentsline {chapter}{List of Tables}{VI}{chapter*.11}%
+\contentsline {chapter}{\textenglish {Glossary}}{VII}{section*.12}%
+\contentsline {chapter}{\textenglish {Acronyms}}{VIII}{section*.14}%
 \contentsline {chapter}{Introduction}{1}{chapter*.16}%
 \contentsline {chapter}{Thesis Outlines}{2}{chapter*.17}%
 \contentsline {chapter}{\numberline {I}Fundamentals of Example Research}{3}{chapter.1}%

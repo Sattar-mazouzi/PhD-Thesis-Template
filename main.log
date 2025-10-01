@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.31)  1 OCT 2025 20:11
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.31)  1 OCT 2025 20:15
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1198,11 +1198,9 @@ Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
 
 
 
-]
+]) (./main.toc
 
-[3]) (./main.toc
-
-[4
+[3
 
 
 
@@ -1212,13 +1210,13 @@ Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
 \openout4 = main.toc
 
 
-[5] (./main.lof)
+[4] (./main.lof)
 \tf@lof=\write5
 
 \openout5 = main.lof
 
 
-[6
+[5
 
 ] (./main.lot)
 \tf@lot=\write6
@@ -1226,7 +1224,7 @@ Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
 \openout6 = main.lot
 
 
-[7
+[6
 
 ]
 Using TeX to sort glossary entries---this may take a while
@@ -1242,7 +1240,7 @@ Overfull \hbox (21.4295pt too wide) in alignment at lines 105--105
 Using TeX to sort glossary entries---this may take a while
 
 
-[8
+[7
 
 
 
@@ -1253,7 +1251,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 
-[9
+[8
 
 
 ]
@@ -1308,7 +1306,7 @@ Package lettrine.sty Info: Targeted height = 32.4558pt
 ]
 
 [4]
-<Figures/Ch1/example.jpg, id=374, 1405.25pt x 983.675pt>
+<Figures/Ch1/example.jpg, id=370, 1405.25pt x 983.675pt>
 File: Figures/Ch1/example.jpg Graphic file (type jpg)
 <use Figures/Ch1/example.jpg>
 Package luatex.def Info: Figures/Ch1/example.jpg  used on input line 21.
@@ -1324,7 +1322,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [5<./Figures/Ch1/example.jpg>]
-<example-image.pdf, id=379, 321.2pt x 240.9pt>
+<example-image.pdf, id=375, 321.2pt x 240.9pt>
 File: example-image.pdf Graphic file (type pdf)
 <use example-image.pdf>
 Package luatex.def Info: example-image.pdf  used on input line 70.
@@ -1469,16 +1467,16 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 26577 strings out of 475518
+ 26576 strings out of 475518
  125126,1373583 words of node,token memory allocated
- 1237 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 62 dir, 3 glue, 5 kern, 1 penalty, 2 glyph, 82 attr
-ibute, 69 glue_spec, 81 attribute_list, 1 write, 4 pdf_colorstack nodes
+ 1251 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 64 dir, 3 glue, 5 kern, 1 penalty, 2 glyph, 83 attr
+ibute, 69 glue_spec, 82 attribute_list, 1 write, 4 pdf_colorstack nodes
    avail lists: 1:4,2:694,3:356,4:210,5:379,6:98,7:10327,8:37,9:586,10:27,11:709
 
  48376 multiletter control sequences out of 65536+600000
  219 fonts using 68710463 bytes
- 94i,19n,102p,5358b,865s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,19n,102p,2406b,865s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/WINDOWS/Fonts/timesi.ttf>{C:/Users/Mazou/AppData/Local/Programs/MiKTeX/fonts
 /enc/dvips/base/8r.enc}<C:/WINDOWS/Fonts/timesbd.ttf><C:/Users/Mazou/AppData/Loc
 al/Programs/MiKTeX/fonts/truetype/public/amiri/amiri-bold.ttf><C:/WINDOWS/Fonts/
@@ -1490,9 +1488,9 @@ eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Mazou/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Mazou/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Mazou/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (37 pages, 412267 bytes).
+Output written on main.pdf (36 pages, 400146 bytes).
 
-PDF statistics: 600 PDF objects out of 1000 (max. 8388607)
- 163 named destinations out of 1000 (max. 131072)
+PDF statistics: 596 PDF objects out of 1000 (max. 8388607)
+ 162 named destinations out of 1000 (max. 131072)
  409 words of extra memory for PDF output out of 10000 (max. 100000000)
 
