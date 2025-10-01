@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.31)  1 OCT 2025 19:44
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.31)  1 OCT 2025 19:53
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1308,7 +1308,7 @@ Package lettrine.sty Info: Targeted height = 32.4558pt
 ]
 
 [4]
-<Figures/Ch1/example.jpg, id=376, 1405.25pt x 983.675pt>
+<Figures/Ch1/example.jpg, id=380, 1405.25pt x 983.675pt>
 File: Figures/Ch1/example.jpg Graphic file (type jpg)
 <use Figures/Ch1/example.jpg>
 Package luatex.def Info: Figures/Ch1/example.jpg  used on input line 21.
@@ -1324,7 +1324,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [5<./Figures/Ch1/example.jpg>]
-<example-image.pdf, id=381, 321.2pt x 240.9pt>
+<example-image.pdf, id=385, 321.2pt x 240.9pt>
 File: example-image.pdf Graphic file (type pdf)
 <use example-image.pdf>
 Package luatex.def Info: example-image.pdf  used on input line 70.
@@ -1405,6 +1405,10 @@ Chapter IV.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+File: example-image.pdf Graphic file (type pdf)
+<use example-image.pdf>
+Package luatex.def Info: example-image.pdf  used on input line 23.
+(luatex.def)             Requested size: 455.24411pt x 341.44446pt.
 
 
 [20
@@ -1413,12 +1417,23 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 ]
+File: example-image.pdf Graphic file (type pdf)
+<use example-image.pdf>
+Package luatex.def Info: example-image.pdf  used on input line 35.
+(luatex.def)             Requested size: 455.24411pt x 341.44446pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 
 [21]
 
-[22])
+[22]
 
-[23]
+[23])
+
+[24]
 \openout2 = Chapters/Conclusion.aux
  (./Chapters/Conclusion.tex
 Package lettrine.sty Info: Targeted height = 32.4558pt
@@ -1427,16 +1442,16 @@ Package lettrine.sty Info: Targeted height = 32.4558pt
 (lettrine.sty)             reported on input line 3.
 )
 
-[24
+[25
 
 
 
 
 ]
 
-[25] (./main.bbl)
+[26] (./main.bbl)
 
-[26
+[27
 
 
 
@@ -1450,18 +1465,18 @@ LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1097DB196FD2DA1CC200C483F8C18053;7148.
+(rerunfilecheck)             Checksum: 0337669CF2BC1C912A10CA640FB12300;7148.
 )
 
 Here is how much of LuaTeX's memory you used:
- 26568 strings out of 475518
+ 26577 strings out of 475518
  125126,1373583 words of node,token memory allocated
  1237 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 62 dir, 3 glue, 5 kern, 1 penalty, 2 glyph, 82 attr
 ibute, 69 glue_spec, 81 attribute_list, 1 write, 4 pdf_colorstack nodes
    avail lists: 1:4,2:694,3:356,4:210,5:379,6:98,7:10327,8:37,9:586,10:27,11:709
 
- 48374 multiletter control sequences out of 65536+600000
+ 48376 multiletter control sequences out of 65536+600000
  219 fonts using 68710463 bytes
  94i,19n,102p,5358b,865s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/WINDOWS/Fonts/timesi.ttf>{C:/Users/Mazou/AppData/Local/Programs/MiKTeX/fonts
@@ -1475,9 +1490,9 @@ eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Mazou/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Mazou/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Mazou/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (36 pages, 411990 bytes).
+Output written on main.pdf (37 pages, 414383 bytes).
 
-PDF statistics: 597 PDF objects out of 1000 (max. 8388607)
- 160 named destinations out of 1000 (max. 131072)
+PDF statistics: 606 PDF objects out of 1000 (max. 8388607)
+ 163 named destinations out of 1000 (max. 131072)
  409 words of extra memory for PDF output out of 10000 (max. 100000000)
 
