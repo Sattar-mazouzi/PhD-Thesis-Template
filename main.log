@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.31)  1 OCT 2025 19:54
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.31)  1 OCT 2025 20:11
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1109,57 +1109,57 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 46.
+ 37.
 
 (C:/Users/Mazou/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 46.
+ 37.
 
 (C:/Users/Mazou/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 46.
+ 37.
 
 (C:/Users/Mazou/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 46.
+ 37.
 
 (C:/Users/Mazou/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
-6.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+7.
 
 (C:/Users/Mazou/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
 <titlePage/Images/logo_uzad.png, id=207, 82.1469pt x 81.6651pt>
 File: titlePage/Images/logo_uzad.png Graphic file (type png)
 <use titlePage/Images/logo_uzad.png>
-Package luatex.def Info: titlePage/Images/logo_uzad.png  used on input line 51.
+Package luatex.def Info: titlePage/Images/logo_uzad.png  used on input line 42.
 
 (luatex.def)             Requested size: 85.35826pt x 84.86363pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 68.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
@@ -1308,7 +1308,7 @@ Package lettrine.sty Info: Targeted height = 32.4558pt
 ]
 
 [4]
-<Figures/Ch1/example.jpg, id=380, 1405.25pt x 983.675pt>
+<Figures/Ch1/example.jpg, id=374, 1405.25pt x 983.675pt>
 File: Figures/Ch1/example.jpg Graphic file (type jpg)
 <use Figures/Ch1/example.jpg>
 Package luatex.def Info: Figures/Ch1/example.jpg  used on input line 21.
@@ -1324,7 +1324,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [5<./Figures/Ch1/example.jpg>]
-<example-image.pdf, id=385, 321.2pt x 240.9pt>
+<example-image.pdf, id=379, 321.2pt x 240.9pt>
 File: example-image.pdf Graphic file (type pdf)
 <use example-image.pdf>
 Package luatex.def Info: example-image.pdf  used on input line 70.
@@ -1490,9 +1490,9 @@ eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Mazou/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Mazou/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Mazou/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (37 pages, 414383 bytes).
+Output written on main.pdf (37 pages, 412267 bytes).
 
-PDF statistics: 606 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 600 PDF objects out of 1000 (max. 8388607)
  163 named destinations out of 1000 (max. 131072)
  409 words of extra memory for PDF output out of 10000 (max. 100000000)
 
