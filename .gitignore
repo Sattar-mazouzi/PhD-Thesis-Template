@@ -6,3 +6,5 @@ main.aux
 *.out
 *.gz
 *.toc
+main.out
+*.log
