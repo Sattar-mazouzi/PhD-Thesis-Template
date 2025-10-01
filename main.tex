@@ -1,0 +1,142 @@
+\documentclass[11pt, a4paper]{report}
+
+% Import packages 
+%\usepackage[utf8]{inputenc}
+%\usepackage{babel}
+%\usepackage{arabtex}
+%\usepackage{lmodern} 
+
+\usepackage{mwe} % loads example-image, example-image-a, etc.
+\usepackage{polyglossia}
+\usepackage{fontspec}
+\setmainlanguage{english}
+\setotherlanguage{arabic}
+\setotherlanguage{french}
+\newfontfamily\arabicfont[Script=Arabic]{Amiri} % Replace with a font you have
+
+% Define main and bold fonts for English
+
+
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage{fancyhdr}
+\usepackage[colorlinks=true, linkcolor=black, citecolor=blue, urlcolor=black]{hyperref} % For hyperlinks
+\usepackage{lettrine} % package for big starting letters 
+\usepackage{mathptmx}
+\usepackage{multirow}
+\usepackage{makecell} % For multi-line headers 
+%\usepackage{amsmath}
+\usepackage{subcaption} % For subfigures
+\usepackage{caption} % For customizing captions
+\usepackage{float} % For figure positioning
+\usepackage{array} % For advanced table formatting
+\usepackage{booktabs} % For better looking tables
+\usepackage{tabularx}
+\usepackage{tocbibind} %Ensures Bibliography is in TOC 
+\usepackage[toc,acronym, nonumberlist]{glossaries}
+%\usepackage[toc,section=section]{glossaries}
+\usepackage{enumitem} % bettert controol for itimized env
+\usepackage{pdfpages} 
+
+\setmainfont{Times New Roman}[
+BoldFont = Times New Roman Bold, % Specify the bold variant
+]
+
+
+% page style 
+\usepackage[top=2.5cm,bottom=2.5cm,left=3cm,right=2cm]{geometry}
+%% Set-up caption fonts 
+\captionsetup[figure]{font= small}
+\captionsetup[table]{font= small}
+%% Numbering 
+% Change chapter numbering to Roman numerals
+\renewcommand{\thechapter}{\Roman{chapter}}
+% Set up Numbering 
+\setcounter{secnumdepth}{4} % set depth of numbering 
+% Redefine \paragraph to use alphabetic numbering
+
+
+\renewcommand{\theparagraph}{\alph{paragraph}} 
+\usepackage[x11names]{xcolor}
+
+
+%#########################% Glossaries Page %#######################################%
+% Change glossary hyperlink colors
+\renewcommand*{\glstextformat}[1]{\textcolor{black}{#1}} % black for glossary entries
+
+
+%%%
+\setglossarystyle{long}
+\setlength{\glsdescwidth}{0.8\textwidth} % Adjust this value as needed
+\makenoidxglossaries
+\include{otherSections/Glossaries.tex}
+\glstoctrue 
+\begin{document}
+
+	%#########################% Title Page %#######################################%
+
+	\include{titlePage/titlePageEmbed.tex}
+	\clearpage 
+	\pagenumbering{Roman}
+
+
+	%%  
+	%#########################% Dedications %#######################################%
+	\include{otherSections/Dedication.tex}
+	
+	
+
+	%  	
+	%#########################% Abstract %#######################################%
+	\include{otherSections/Abstract.tex} 
+	\normalsize
+	
+
+	%  
+	%#########################% Acknowledgments %#######################################%
+	%\include{otherSections/Acknowledgments.tex}
+	
+	
+	%#########################% Lis of Contents %#######################################%
+	\tableofcontents	
+	\listoffigures  
+	\listoftables
+	\clearpage
+	\printnoidxglossaries
+	%\printnoidxglossary[type=\acronymtype]
+	% Switch to Arabic numbering for main content
+	\clearpage
+	% 	
+	%#########################% General Interoduction %####################################%
+	\include{Chapters/Interoduction.tex}
+
+	%%  
+	%#########################% Thesis Outlines %#######################################%
+	\include{otherSections/thesisOutline.tex}
+	
+	
+	%#########################% Chapter 01 %#######################################%
+	\include{Chapters/Chapter1.tex} 
+	
+	%#########################% Chapter 02 %#######################################%
+	\include{Chapters/Chapter2.tex}
+	
+	%#########################% Chapter 03 %#######################################%
+	\include{Chapters/Chapter3.tex}
+	
+	
+	%#########################% Chapter 04 %#######################################%
+	\include{Chapters/Chapter4.tex}
+ 
+ 
+	%#########################% General Conclusion %#######################################%
+	\include{Chapters/Conclusion.tex}
+	
+	
+ 	
+ 	%#########################% Bibliography %#######################################%
+	\bibliographystyle{ieeetr} 
+	\bibliography{Bib/Refs.bib}
+	
+
+\end{document}
