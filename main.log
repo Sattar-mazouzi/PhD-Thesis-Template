@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.31)  1 OCT 2025 20:15
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.31)  3 OCT 2025 18:30
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -956,7 +956,7 @@ File: x11nam.def 2024/09/29 v3.02 Predefined colors according to Unix/X11 (UK)
 )
 
 LaTeX Warning: \include should only be used after \begin{document} on input lin
-e 72.
+e 79.
 
 (./otherSections/Glossaries.tex) (./main.aux (./titlePage/titlePageEmbed.aux)
 (./otherSections/Dedication.aux) (./otherSections/Abstract.aux)
@@ -965,26 +965,26 @@ e 72.
 (./Chapters/Chapter4.aux) (./Chapters/Conclusion.aux))
 \openout1 = main.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
 
 (C:/Users/Mazou/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mk
 ii
@@ -1011,7 +1011,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 74.
+Package hyperref Info: Link coloring ON on input line 81.
  (./main.out) (./main.out)
 \@outlinefile=\write3
 
@@ -1144,7 +1144,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
-<titlePage/Images/logo_uzad.png, id=207, 82.1469pt x 81.6651pt>
+<titlePage/Images/logo_uzad.png, id=208, 82.1469pt x 81.6651pt>
 File: titlePage/Images/logo_uzad.png Graphic file (type png)
 <use titlePage/Images/logo_uzad.png>
 Package luatex.def Info: titlePage/Images/logo_uzad.png  used on input line 42.
@@ -1230,10 +1230,10 @@ Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
 Using TeX to sort glossary entries---this may take a while
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\textenglish' on input line 105.
+(hyperref)                removing `\textenglish' on input line 112.
 
 
-Overfull \hbox (21.4295pt too wide) in alignment at lines 105--105
+Overfull \hbox (21.4295pt too wide) in alignment at lines 112--112
  [][] 
  []
 
@@ -1247,7 +1247,7 @@ Using TeX to sort glossary entries---this may take a while
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\textenglish' on input line 105.
+(hyperref)                removing `\textenglish' on input line 112.
 
 
 
@@ -1306,7 +1306,7 @@ Package lettrine.sty Info: Targeted height = 32.4558pt
 ]
 
 [4]
-<Figures/Ch1/example.jpg, id=370, 1405.25pt x 983.675pt>
+<Figures/Ch1/example.jpg, id=371, 1405.25pt x 983.675pt>
 File: Figures/Ch1/example.jpg Graphic file (type jpg)
 <use Figures/Ch1/example.jpg>
 Package luatex.def Info: Figures/Ch1/example.jpg  used on input line 21.
@@ -1322,7 +1322,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [5<./Figures/Ch1/example.jpg>]
-<example-image.pdf, id=375, 321.2pt x 240.9pt>
+<example-image.pdf, id=376, 321.2pt x 240.9pt>
 File: example-image.pdf Graphic file (type pdf)
 <use example-image.pdf>
 Package luatex.def Info: example-image.pdf  used on input line 70.
@@ -1472,11 +1472,11 @@ Here is how much of LuaTeX's memory you used:
  1251 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 64 dir, 3 glue, 5 kern, 1 penalty, 2 glyph, 83 attr
 ibute, 69 glue_spec, 82 attribute_list, 1 write, 4 pdf_colorstack nodes
-   avail lists: 1:4,2:694,3:356,4:210,5:379,6:98,7:10327,8:37,9:586,10:27,11:709
+   avail lists: 1:3,2:694,3:356,4:210,5:379,6:98,7:10327,8:37,9:586,10:27,11:709
 
  48376 multiletter control sequences out of 65536+600000
  219 fonts using 68710463 bytes
- 94i,19n,102p,2406b,865s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,19n,102p,2406b,903s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/WINDOWS/Fonts/timesi.ttf>{C:/Users/Mazou/AppData/Local/Programs/MiKTeX/fonts
 /enc/dvips/base/8r.enc}<C:/WINDOWS/Fonts/timesbd.ttf><C:/Users/Mazou/AppData/Loc
 al/Programs/MiKTeX/fonts/truetype/public/amiri/amiri-bold.ttf><C:/WINDOWS/Fonts/
@@ -1488,9 +1488,9 @@ eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Mazou/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Mazou/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Mazou/AppData/Local/Programs
 /MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (36 pages, 400146 bytes).
+Output written on main.pdf (36 pages, 400355 bytes).
 
-PDF statistics: 596 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 597 PDF objects out of 1000 (max. 8388607)
  162 named destinations out of 1000 (max. 131072)
  409 words of extra memory for PDF output out of 10000 (max. 100000000)
 
