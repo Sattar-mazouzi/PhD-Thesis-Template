@@ -8,7 +8,7 @@ This template was developed and used for my thesis:
 ![d](https://raw.githubusercontent.com/Sattar-mazouzi/Images/refs/heads/main/Thesis_latex_tmps.png)
 
 ## ✨ Features
-- Compatible with **LuaLaTeX** and **pdfLaTeX**
+- Compatible with **LuaLaTeX** and **XeLatex**
 - Predefined structure for:
   - Title page
   - Abstract (multi-language support)
