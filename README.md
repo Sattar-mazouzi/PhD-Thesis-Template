@@ -33,8 +33,7 @@ Thesis/ <br>
 
 ### softwares:
 
-compiled with texStudio / MikTeX distribution
-
+compiled with texStudio  / MikTeX distribution / XeLaTex compiler
 ### Packages:
 
 arabtex, polyglossia, graphicx, hyperref, makecell, pifont, subcaption, glossaries, multirow etc.

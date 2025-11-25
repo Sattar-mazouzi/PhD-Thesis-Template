@@ -16,91 +16,91 @@
 \contentsline {chapter}{\textenglish {Acronyms}}{VIII}{section*.14}%
 \contentsline {chapter}{Introduction}{1}{chapter*.16}%
 \contentsline {chapter}{Thesis Outlines}{2}{chapter*.17}%
-\contentsline {chapter}{\numberline {I}Fundamentals of Example Research}{3}{chapter.1}%
-\contentsline {section}{\numberline {I.1}Introduction}{3}{section.1.1}%
-\contentsline {section}{\numberline {I.2}Section 1}{4}{section.1.2}%
-\contentsline {subsection}{\numberline {I.2.1} overview}{4}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {I.2.2}Market}{5}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {I.2.3}Challenges }{5}{subsection.1.2.3}%
-\contentsline {section}{\numberline {I.3}Section 2}{7}{section.1.3}%
-\contentsline {subsection}{\numberline {I.3.1}Subsection }{7}{subsection.1.3.1}%
-\contentsline {subsubsection}{\numberline {I.3.1.1}Historical overview }{7}{subsubsection.1.3.1.1}%
-\contentsline {subsubsection}{\numberline {I.3.1.2}Structure and operation principle }{7}{subsubsection.1.3.1.2}%
-\contentsline {subsubsection}{\numberline {I.3.1.3}Classifications}{7}{subsubsection.1.3.1.3}%
-\contentsline {paragraph}{\numberline {a}Class 01:}{7}{paragraph.1.3.1.3.1}%
-\contentsline {paragraph}{\numberline {b}Class 02:}{7}{paragraph.1.3.1.3.2}%
-\contentsline {paragraph}{\numberline {c}Class 03:}{8}{paragraph.1.3.1.3.3}%
-\contentsline {paragraph}{\numberline {d}Class 04:}{8}{paragraph.1.3.1.3.4}%
-\contentsline {paragraph}{\numberline {e}Class 05:}{9}{paragraph.1.3.1.3.5}%
-\contentsline {subsubsection}{\numberline {I.3.1.4}Subsubsection}{9}{subsubsection.1.3.1.4}%
-\contentsline {subsection}{\numberline {I.3.2}Other subsection}{9}{subsection.1.3.2}%
-\contentsline {subsubsection}{\numberline {I.3.2.1}Types}{9}{subsubsection.1.3.2.1}%
-\contentsline {paragraph}{\numberline {a}Type01:}{10}{paragraph.1.3.2.1.1}%
-\contentsline {paragraph}{\numberline {b}Type02:}{10}{paragraph.1.3.2.1.2}%
-\contentsline {paragraph}{\numberline {c}Type03:}{10}{paragraph.1.3.2.1.3}%
-\contentsline {paragraph}{\numberline {d}Type04:}{10}{paragraph.1.3.2.1.4}%
-\contentsline {paragraph}{\numberline {e}Type05:}{10}{paragraph.1.3.2.1.5}%
-\contentsline {subsubsection}{\numberline {I.3.2.2}Other sub-subsection}{11}{subsubsection.1.3.2.2}%
-\contentsline {section}{\numberline {I.4}Conclusion}{11}{section.1.4}%
-\contentsline {chapter}{\numberline {II}Methods and Experimental Setup}{12}{chapter.2}%
-\contentsline {section}{\numberline {II.1}Introduction }{12}{section.2.1}%
-\contentsline {subsection}{\numberline {II.1.1}Background Concepts}{12}{subsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {II.1.1.1}Basic Definitions}{13}{subsubsection.2.1.1.1}%
-\contentsline {subsubsection}{\numberline {II.1.1.2}Historical Context}{13}{subsubsection.2.1.1.2}%
-\contentsline {subsection}{\numberline {II.1.2}Motivation and Scope}{13}{subsection.2.1.2}%
-\contentsline {subsubsection}{\numberline {II.1.2.1}Problem Statement}{13}{subsubsection.2.1.2.1}%
-\contentsline {subsubsection}{\numberline {II.1.2.2}Research Objectives}{13}{subsubsection.2.1.2.2}%
-\contentsline {section}{\numberline {II.2}Methodology Examples}{13}{section.2.2}%
-\contentsline {subsection}{\numberline {II.2.1}Experimental Setup}{13}{subsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {II.2.1.1}Simulation Environment}{13}{subsubsection.2.2.1.1}%
-\contentsline {subsubsection}{\numberline {II.2.1.2}Hardware Configuration}{13}{subsubsection.2.2.1.2}%
-\contentsline {section}{\numberline {II.3}Results and Discussions}{13}{section.2.3}%
-\contentsline {subsection}{\numberline {II.3.1}Numerical Results}{13}{subsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {II.3.1.1}Case Study 1}{14}{subsubsection.2.3.1.1}%
-\contentsline {subsubsection}{\numberline {II.3.1.2}Case Study 2}{14}{subsubsection.2.3.1.2}%
-\contentsline {subsection}{\numberline {II.3.2}Discussion of Findings}{14}{subsection.2.3.2}%
-\contentsline {subsubsection}{\numberline {II.3.2.1}Comparison with Literature}{14}{subsubsection.2.3.2.1}%
-\contentsline {subsubsection}{\numberline {II.3.2.2}Limitations of the Study}{15}{subsubsection.2.3.2.2}%
-\contentsline {section}{\numberline {II.4}Conclusion }{15}{section.2.4}%
-\contentsline {chapter}{\numberline {III}Analysis of Results and Case Studies}{16}{chapter.3}%
-\contentsline {section}{\numberline {III.1}Introduction }{16}{section.3.1}%
-\contentsline {subsection}{\numberline {III.1.1}Background Concepts}{16}{subsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {III.1.1.1}Basic Definitions}{17}{subsubsection.3.1.1.1}%
-\contentsline {subsubsection}{\numberline {III.1.1.2}Historical Context}{17}{subsubsection.3.1.1.2}%
-\contentsline {subsection}{\numberline {III.1.2}Motivation and Scope}{17}{subsection.3.1.2}%
-\contentsline {subsubsection}{\numberline {III.1.2.1}Problem Statement}{17}{subsubsection.3.1.2.1}%
-\contentsline {subsubsection}{\numberline {III.1.2.2}Research Objectives}{17}{subsubsection.3.1.2.2}%
-\contentsline {section}{\numberline {III.2}Methodology Examples}{17}{section.3.2}%
-\contentsline {subsection}{\numberline {III.2.1}Experimental Setup}{17}{subsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {III.2.1.1}Simulation Environment}{17}{subsubsection.3.2.1.1}%
-\contentsline {subsubsection}{\numberline {III.2.1.2}Hardware Configuration}{17}{subsubsection.3.2.1.2}%
-\contentsline {section}{\numberline {III.3}Results and Discussions}{17}{section.3.3}%
-\contentsline {subsection}{\numberline {III.3.1}Numerical Results}{17}{subsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {III.3.1.1}Case Study 1}{18}{subsubsection.3.3.1.1}%
-\contentsline {subsubsection}{\numberline {III.3.1.2}Case Study 2}{18}{subsubsection.3.3.1.2}%
-\contentsline {subsection}{\numberline {III.3.2}Discussion of Findings}{18}{subsection.3.3.2}%
-\contentsline {subsubsection}{\numberline {III.3.2.1}Comparison with Literature}{18}{subsubsection.3.3.2.1}%
-\contentsline {subsubsection}{\numberline {III.3.2.2}Limitations of the Study}{19}{subsubsection.3.3.2.2}%
-\contentsline {section}{\numberline {III.4}Conclusion }{19}{section.3.4}%
-\contentsline {chapter}{\numberline {IV}Conclusions and Future Perspectives}{20}{chapter.4}%
-\contentsline {section}{\numberline {IV.1}Introduction }{20}{section.4.1}%
-\contentsline {subsection}{\numberline {IV.1.1}Background Concepts}{20}{subsection.4.1.1}%
-\contentsline {subsubsection}{\numberline {IV.1.1.1}Basic Definitions}{21}{subsubsection.4.1.1.1}%
-\contentsline {subsubsection}{\numberline {IV.1.1.2}Historical Context}{21}{subsubsection.4.1.1.2}%
-\contentsline {subsection}{\numberline {IV.1.2}Motivation and Scope}{21}{subsection.4.1.2}%
-\contentsline {subsubsection}{\numberline {IV.1.2.1}Problem Statement}{21}{subsubsection.4.1.2.1}%
-\contentsline {subsubsection}{\numberline {IV.1.2.2}Research Objectives}{21}{subsubsection.4.1.2.2}%
-\contentsline {section}{\numberline {IV.2}Methodology Examples}{21}{section.4.2}%
-\contentsline {subsection}{\numberline {IV.2.1}Experimental Setup}{22}{subsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {IV.2.1.1}Simulation Environment}{22}{subsubsection.4.2.1.1}%
-\contentsline {subsubsection}{\numberline {IV.2.1.2}Hardware Configuration}{22}{subsubsection.4.2.1.2}%
-\contentsline {section}{\numberline {IV.3}Results and Discussions}{22}{section.4.3}%
-\contentsline {subsection}{\numberline {IV.3.1}Numerical Results}{23}{subsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {IV.3.1.1}Case Study 1}{23}{subsubsection.4.3.1.1}%
-\contentsline {subsubsection}{\numberline {IV.3.1.2}Case Study 2}{23}{subsubsection.4.3.1.2}%
-\contentsline {subsection}{\numberline {IV.3.2}Discussion of Findings}{23}{subsection.4.3.2}%
-\contentsline {subsubsection}{\numberline {IV.3.2.1}Comparison with Literature}{23}{subsubsection.4.3.2.1}%
-\contentsline {subsubsection}{\numberline {IV.3.2.2}Limitations of the Study}{24}{subsubsection.4.3.2.2}%
-\contentsline {section}{\numberline {IV.4}Conclusion }{24}{section.4.4}%
+\contentsline {chapter}{\numberline {1}Fundamentals of Example Research}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Section 1}{4}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1} overview}{4}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Market}{5}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Challenges }{5}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Section 2}{7}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Subsection }{7}{subsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.1.1}Historical overview }{7}{subsubsection.1.3.1.1}%
+\contentsline {subsubsection}{\numberline {1.3.1.2}Structure and operation principle }{7}{subsubsection.1.3.1.2}%
+\contentsline {subsubsection}{\numberline {1.3.1.3}Classifications}{7}{subsubsection.1.3.1.3}%
+\contentsline {paragraph}{\numberline {1.3.1.3.1}Class 01:}{7}{paragraph.1.3.1.3.1}%
+\contentsline {paragraph}{\numberline {1.3.1.3.2}Class 02:}{7}{paragraph.1.3.1.3.2}%
+\contentsline {paragraph}{\numberline {1.3.1.3.3}Class 03:}{8}{paragraph.1.3.1.3.3}%
+\contentsline {paragraph}{\numberline {1.3.1.3.4}Class 04:}{8}{paragraph.1.3.1.3.4}%
+\contentsline {paragraph}{\numberline {1.3.1.3.5}Class 05:}{9}{paragraph.1.3.1.3.5}%
+\contentsline {subsubsection}{\numberline {1.3.1.4}Subsubsection}{9}{subsubsection.1.3.1.4}%
+\contentsline {subsection}{\numberline {1.3.2}Other subsection}{9}{subsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.2.1}Types}{9}{subsubsection.1.3.2.1}%
+\contentsline {paragraph}{\numberline {1.3.2.1.1}Type01:}{10}{paragraph.1.3.2.1.1}%
+\contentsline {paragraph}{\numberline {1.3.2.1.2}Type02:}{10}{paragraph.1.3.2.1.2}%
+\contentsline {paragraph}{\numberline {1.3.2.1.3}Type03:}{10}{paragraph.1.3.2.1.3}%
+\contentsline {paragraph}{\numberline {1.3.2.1.4}Type04:}{10}{paragraph.1.3.2.1.4}%
+\contentsline {paragraph}{\numberline {1.3.2.1.5}Type05:}{10}{paragraph.1.3.2.1.5}%
+\contentsline {subsubsection}{\numberline {1.3.2.2}Other sub-subsection}{11}{subsubsection.1.3.2.2}%
+\contentsline {section}{\numberline {1.4}Conclusion}{11}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Methods and Experimental Setup}{12}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction }{12}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Background Concepts}{12}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.1}Basic Definitions}{13}{subsubsection.2.1.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.2}Historical Context}{13}{subsubsection.2.1.1.2}%
+\contentsline {subsection}{\numberline {2.1.2}Motivation and Scope}{13}{subsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.2.1}Problem Statement}{13}{subsubsection.2.1.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.2.2}Research Objectives}{13}{subsubsection.2.1.2.2}%
+\contentsline {section}{\numberline {2.2}Methodology Examples}{13}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Experimental Setup}{13}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}Simulation Environment}{13}{subsubsection.2.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.2}Hardware Configuration}{13}{subsubsection.2.2.1.2}%
+\contentsline {section}{\numberline {2.3}Results and Discussions}{13}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Numerical Results}{13}{subsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.1.1}Case Study 1}{14}{subsubsection.2.3.1.1}%
+\contentsline {subsubsection}{\numberline {2.3.1.2}Case Study 2}{14}{subsubsection.2.3.1.2}%
+\contentsline {subsection}{\numberline {2.3.2}Discussion of Findings}{14}{subsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.2.1}Comparison with Literature}{14}{subsubsection.2.3.2.1}%
+\contentsline {subsubsection}{\numberline {2.3.2.2}Limitations of the Study}{15}{subsubsection.2.3.2.2}%
+\contentsline {section}{\numberline {2.4}Conclusion }{15}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Analysis of Results and Case Studies}{16}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction }{16}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Background Concepts}{16}{subsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.1}Basic Definitions}{17}{subsubsection.3.1.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.2}Historical Context}{17}{subsubsection.3.1.1.2}%
+\contentsline {subsection}{\numberline {3.1.2}Motivation and Scope}{17}{subsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.2.1}Problem Statement}{17}{subsubsection.3.1.2.1}%
+\contentsline {subsubsection}{\numberline {3.1.2.2}Research Objectives}{17}{subsubsection.3.1.2.2}%
+\contentsline {section}{\numberline {3.2}Methodology Examples}{17}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Experimental Setup}{17}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.1}Simulation Environment}{17}{subsubsection.3.2.1.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.2}Hardware Configuration}{17}{subsubsection.3.2.1.2}%
+\contentsline {section}{\numberline {3.3}Results and Discussions}{17}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Numerical Results}{17}{subsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.1.1}Case Study 1}{18}{subsubsection.3.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.3.1.2}Case Study 2}{18}{subsubsection.3.3.1.2}%
+\contentsline {subsection}{\numberline {3.3.2}Discussion of Findings}{18}{subsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.2.1}Comparison with Literature}{18}{subsubsection.3.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.3.2.2}Limitations of the Study}{19}{subsubsection.3.3.2.2}%
+\contentsline {section}{\numberline {3.4}Conclusion }{19}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Conclusions and Future Perspectives}{20}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction }{20}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Background Concepts}{20}{subsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.1}Basic Definitions}{21}{subsubsection.4.1.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.2}Historical Context}{21}{subsubsection.4.1.1.2}%
+\contentsline {subsection}{\numberline {4.1.2}Motivation and Scope}{21}{subsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.2.1}Problem Statement}{21}{subsubsection.4.1.2.1}%
+\contentsline {subsubsection}{\numberline {4.1.2.2}Research Objectives}{21}{subsubsection.4.1.2.2}%
+\contentsline {section}{\numberline {4.2}Methodology Examples}{21}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Experimental Setup}{22}{subsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.1}Simulation Environment}{22}{subsubsection.4.2.1.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.2}Hardware Configuration}{22}{subsubsection.4.2.1.2}%
+\contentsline {section}{\numberline {4.3}Results and Discussions}{22}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Numerical Results}{23}{subsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.1.1}Case Study 1}{23}{subsubsection.4.3.1.1}%
+\contentsline {subsubsection}{\numberline {4.3.1.2}Case Study 2}{23}{subsubsection.4.3.1.2}%
+\contentsline {subsection}{\numberline {4.3.2}Discussion of Findings}{23}{subsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.2.1}Comparison with Literature}{23}{subsubsection.4.3.2.1}%
+\contentsline {subsubsection}{\numberline {4.3.2.2}Limitations of the Study}{24}{subsubsection.4.3.2.2}%
+\contentsline {section}{\numberline {4.4}Conclusion }{24}{section.4.4}%
 \contentsline {chapter}{Conclusion}{25}{chapter*.28}%
 \contentsline {chapter}{Bibliography}{27}{chapter*.29}%
