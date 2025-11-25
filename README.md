@@ -43,7 +43,7 @@ BibTeX or Biber for references
 ## 📖 License & Copyright
 
 © 2025 Abdesattar Mazouzi <br>
-Email: [sattarmazouzi@outlook.com](mailto:sattarmazouzi@outlook.com)
+Email: [abdesattarmazouzi@gmail.com](mailto:abdesattarmazouzi@gmail.com)
 
 This template is released under the MIT License.
 You are free to use and modify it, but please give credit by citing or linking back to this repository.
