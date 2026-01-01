@@ -8,3 +8,10 @@ main.aux
 *.toc
 main.out
 *.log
+*.lof
+*.aux
+*.lof
+*.aux
+*.out
+*.gz
+*.toc
