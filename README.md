@@ -3,7 +3,7 @@
 A professional LaTeX template for writing PhD theses, designed for algerian universities and specifically for Ziane Achour University of Djelfa. For other, some slight changes may apply depending on the university.    
 This template was developed and used for my thesis:
 
-[**"Energy Monitoring of a Fuel-cell Hybrid Electric Vehicle using the Fuzzy Approach for Optimal Management "**](https://www.researchgate.net/profile/Abdesattar-Mazouzi?ev=hdr_xprf)
+[**"Energy Monitoring of a Fuel-cell Hybrid Electric Vehicle using the Fuzzy Approach for Optimal Management "**](https://doi.org/10.13140/RG.2.2.36092.19844)
 
 ![d](https://raw.githubusercontent.com/Sattar-mazouzi/Images/refs/heads/main/Thesis_latex_tmps.png)
 
